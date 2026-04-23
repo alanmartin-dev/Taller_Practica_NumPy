@@ -1,4 +1,4 @@
-#Taller Práctico de NumPy
+## Taller Práctico de NumPy
 
 Este repositorio contiene el desarrollo de un taller práctico utilizando la librería **NumPy** en Python, enfocado en el manejo de arrays y operaciones matemáticas fundamentales.
 
